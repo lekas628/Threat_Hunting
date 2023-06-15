@@ -1,1 +1,1 @@
-https://solt01.github.io/Threat_Hunting_2/
+https://lekas628.github.io/Threat_Hunting/
